@@ -1,4 +1,3 @@
-/* Const a = 3;
+const a = 3;
 
 document.write(a);
- */
